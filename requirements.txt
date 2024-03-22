@@ -1,3 +1,5 @@
+pip
+numpy
 streamlit
 scikit-learn
-sklearn
+
